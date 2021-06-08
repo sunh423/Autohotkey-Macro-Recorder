@@ -1,8 +1,8 @@
 # (Autohotkey) Macro Recorder
-This is a script using autohotkey to record mouse clicks (left/right distinguishable). 
-Users can save the recordings into one of the save slots.
+This is a script using autohotkey to record mouse clicks (left/right distinguishable). `n
+Users can save the recordings into one of the save slots. `n
 
-Will add more config settings into the .ini in the future.
+Will add more config settings into the .ini in the future. `n
 
 # Requirements:
 Autohotkey 1.1 or newer
