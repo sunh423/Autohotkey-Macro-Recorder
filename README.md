@@ -8,7 +8,7 @@ Will add more config settings into the .ini in the future.
 # Requirements:
 <ul>
   <li><a href="https://www.autohotkey.com/">Autohotkey 1.1</a> or newer</li>
-  <li><a href="https://github.com/cocobelgica/AutoHotkey-JSON">JSON.ahk</a> (Json library for AHK)</li>
+  <li><a href="https://github.com/cocobelgica/AutoHotkey-JSON">JSON.ahk</a> (Json parse/dump library for AHK)</li>
 </ul>
 
 # Current default controls
