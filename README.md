@@ -12,10 +12,10 @@ Will add more config settings into the .ini in the future.
 </ul>
 
 # Current default controls
-<p>
-Numpad 0: Start Recording Macro
-Numpad Dot: Stop Recording/Rewinding Macro
-Numpad Enter: Start Rewinding Macro
-Numpad Add: Detect save slot changes, and save all .json files accordingly.
-Numpad 1-9: Switch between save slots 1-9
-</p>
+<div>
+**Numpad 0:** Start Recording Macro <br>
+**Numpad Dot:** Stop Recording/Rewinding Macro  <br>
+**Numpad Enter:** Start Rewinding Macro <br>
+**Numpad Add:** Detect save slot changes, and save all .json files accordingly. <br>
+**Numpad 1-9:** Switch between save slots 1-9 <br>
+</div>
