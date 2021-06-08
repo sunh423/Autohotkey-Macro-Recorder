@@ -11,7 +11,7 @@ Will add more config settings into the .ini in the future.
   <li><a href="https://github.com/cocobelgica/AutoHotkey-JSON">JSON.ahk</a> (Json parse/dump library for AHK)</li>
 </ul>
 
-# Current default controls
+# Controls (Current Default):
 <div>
   <strong>Numpad 0:</strong> Start Recording Macro <br>
   <strong>Numpad Dot:</strong> Stop Recording/Rewinding Macro  <br>
